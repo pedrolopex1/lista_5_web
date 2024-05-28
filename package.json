@@ -1,0 +1,13 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "Projeto Node.js com interface responsiva e formulário",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "stop": "echo 'No stop script specified'"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
